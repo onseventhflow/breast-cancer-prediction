@@ -84,6 +84,7 @@ The model achieves approximately **96% accuracy** on the test dataset with stron
 The model outputs probability scores along with predicted labels for interpretability:
 
 ```Sample 1: Probability = 0.93 | Predicted = Malignant | Actual = Malignant```
+
 ```Sample 2: Probability = 0.00 | Predicted = Benign | Actual = Benign```
 
 
