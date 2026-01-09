@@ -100,6 +100,9 @@ The model outputs probability scores along with predicted labels for interpretab
 
 ---
 
+
+##  Project Structure
+```
 breast-cancer-prediction/
 │
 ├── assets/
@@ -109,4 +112,4 @@ breast-cancer-prediction/
 ├── README.md
 ├── requirements.txt
 └── LICENSE
-
+```
